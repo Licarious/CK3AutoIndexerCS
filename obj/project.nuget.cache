@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbEksHONw1O3tzUNm/6TCh8dI2OrZ5vb6ISOfjPPqcLJs9YUgZjmMMlUARBMUA16H/QCb68fqpcVF3V8aVdaNw==",
+  "success": true,
+  "projectFilePath": "B:\\desktop\\-mods-\\MNR2\\Utilities\\CK3AutoIndexerCS\\CK3AutoIndexerCS\\CK3AutoIndexerCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fligh\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\fligh\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
